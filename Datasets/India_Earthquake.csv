@@ -1,0 +1,11 @@
+Year,Country,ISO,Disaster Type,Disaster Subtype,Location,Total Deaths,No. Injured,No. Homeless,Total Affected
+2001,India,IND,Earthquake,Ground movement,"Gurajat,",20005,166812,4365000,6321812
+2002,India,IND,Earthquake,Ground movement,"Andaman_Nicobar,",2,,,200
+2004,India,IND,Earthquake,Tsunami,"Tamil_Nadu,Andhra_Pradesh,Kerala,Puducherry,Andaman_Nicobar,",16389,6913,647599,654512
+2005,India,IND,Earthquake,Ground movement,"Jammu_Kashmir,",1309,6622,,156622
+2011,India,IND,Earthquake,Ground movement,"Sikkim,West_Bengal,Bihar,Assam,Meghalaya,",112,200,500000,575200
+2013,India,IND,Earthquake,Ground movement,"Jammu_Kashmir,",3,70,59280,59350
+2015,India,IND,Earthquake,Ground movement,"Bihar,Uttar_Pradesh,West_Bengal,Sikkim,",78,560,,560
+2015,India,IND,Earthquake,Ground movement,"Bihar,",20,,,
+2015,India,IND,Earthquake,Ground movement,"Jammu_Kashmir,New_Delhi,Punjab,",,10,,10
+2016,India,IND,Earthquake,Ground movement,"Assam,Manipur",8,308,10500,10808

@@ -1,0 +1,86 @@
+Year,Country,ISO,Disaster Type,Disaster Subtype,Location,Total Deaths,No. Injured,No. Homeless,Total Affected
+2000,India,IND,Storm,Tropical cyclone,"Costal_Andhra_Pradesh,",,,,
+2000,India,IND,Storm,Tropical cyclone,"Nagappattinam,Thanjavur,Sirkali,Papanasam,Tiruvallur,Tiruvarur,Coastal_Tamil_Nadu,Coastal_Andhra Pradesh,",,,30000,30000
+2001,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,",21,,,
+2001,India,IND,Storm,Tropical cyclone,"Coastal_Andhra_Pradesh,",78,,25000,27000
+2001,India,IND,Storm,Tropical cyclone,"Gujarat,Goa,Maharashtra,Kerala,",,,,
+2002,India,IND,Storm,Tropical cyclone,"Coastal_West_Bengal,",9,50,,5050
+2002,India,IND,Storm,Hail,"Coastal_Odisha,",,200,10000,10200
+2002,India,IND,Storm,Lightning/Thunderstorms,"Hooghly,Coastal_West_Bengal,Kolkata,Jalpaiguri,Darjiling,Hill_West_Bengal,",11,,,
+2002,India,IND,Storm,Tropical cyclone,"Baleshwar,Bhadrak,Jagatsinghpur,Kendrapara,Coastal_Odisha,East_Midnapore,North_24_Parganas,South_24_Parganas,Coastal_West_Bengal,",124,,,
+2003,India,IND,Storm,Storm (General),"Betul,Madhya_Pradesh,",20,,,200
+2003,India,IND,Storm,Storm (General),"Jammu_Kashmir,Punjab,Haryana,",14,4,,4
+2003,India,IND,Storm,Tropical cyclone,"Gujarat,",5,,140,140
+2003,India,IND,Storm,Hail,"Bankura,Hooghly,Howrah,",30,500,294765,485910
+2003,India,IND,Storm,Tropical cyclone,"Chirakhawa,Chirakhawa_Topopara,Peepulbari,Bhurakata,Baliabeel,Bengerbhita,Baushkata,Hill_Assam,",45,4000,,4600
+2003,India,IND,Storm,Tropical cyclone,"Mekhliganj,Haldibari,Fukaldabri,Nijtaraf,Kasiabari,Bholarhat,Beltali,CoochBehar,",,60,,460
+2003,India,IND,Storm,Tropical cyclone,"Krishna,Guntur,West_Godavari,Coastal_Andhra_Pradesh,",50,,,40000
+2005,India,IND,Storm,Storm (General),"Barddhaman,North_24_Parganas,South_24_Parganas,Coastal_West_Bengal,",18,50,,7550
+2005,India,IND,Storm,Storm (General),"Guntur,Krishna,Srikakulam,Karimnagar,Nalgonda,Coastal_Andhra_Pradesh,",20,20,,20
+2005,India,IND,Storm,Storm (General),"Kolkata,",11,20,,20
+2005,India,IND,Storm,Storm (General),"Coastal_Andhra_Pradesh,Coastal_Odisha,",33,,11000,61000
+2006,India,IND,Storm,Tropical cyclone,"Coastal_Andhra_Pradesh,Coastal_West_Bengal,Bihar,",114,300,,150300
+2006,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Gujarat,",76,,,
+2007,India,IND,Storm,Tropical cyclone,"Coastal_West_Bengal,Coastal_Odisha,",,,,
+2008,India,IND,Storm,Sand/Dust storm,"Uttar_Pradesh,",111,50,,50
+2009,India,IND,Storm,Tornado,"Kendrapara,Coastal_Odisha,",15,50,5000,9050
+2009,India,IND,Storm,Tropical cyclone,"Sagar,Namkhana,Kakdwip,Pathar_Pratima,Canning,Basanti,Mathurapur,Kultali,South_24_Parganas,Coastal_West_Bengal,Kolkata,North_24_Parganas,Howrah,Hooghly,Darjiling,Hill_West_Bengal,",96,,5100000,5100000
+2009,India,IND,Storm,Lightning/Thunderstorms,"Bihar,Jharkhand,",35,12,,12
+2009,India,IND,Storm,Tropical cyclone,"Gujarat,Madhya_Pradesh,Maharashtra,",20,,,
+2009,India,IND,Storm,Severe weather,"Uttar_Pradesh,",32,23,,23
+2009,India,IND,Storm,Severe weather,"Uttar_Pradesh,",20,,,
+2010,India,IND,Storm,Tropical cyclone,"Bihar,Coastal_West_Bengal,Hill_Assam,",114,,,500000
+2010,India,IND,Storm,Storm (General),"Uttar_Pradesh,Bihar,",54,50,,50
+2010,India,IND,Storm,Tropical cyclone,"Krishna,Prakasam,Nellore,Guntur,Coastal_Andhra_Pradesh,Coastal_Tamil_Nadu,",32,,,
+2010,India,IND,Storm,Lightning/Thunderstorms,"Bihar,Jharkhand,",25,,,
+2010,India,IND,Storm,Severe weather,"Nawabganj,Gonda,Uttar_Pradesh,Allahabad,Unnao,Uttar_Pradesh,",12,30,,2030
+2010,India,IND,Storm,Tropical cyclone,"Coastal_Andhra_Pradesh,",22,,,
+2010,India,IND,Storm,Hail,"Mushalpur,Baksa,Nalbari,Hill_Assam,",28,,,5000
+2011,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,",42,50,,50
+2011,India,IND,Storm,Tropical cyclone,"Cuddalore,Coastal_Tamil_Nadu,Puducherry,",47,,,250000
+2011,India,IND,Storm,Lightning/Thunderstorms,"Karnataka,",17,,,
+2012,India,IND,Storm,Tropical cyclone,"Coastal_Andhra_Pradesh,Coastal_Tamil_Nadu,",40,,70000,70000
+2013,India,IND,Storm,Tornado,"Uttar_Pradesh,",9,,,
+2013,India,IND,Storm,Tropical cyclone,"Coastal_Andhra_Pradesh,",8,4,,4
+2013,India,IND,Storm,Tropical cyclone,"Coastal_Odisha,Coastal_Andhra_Pradesh,Jharkhand,Bihar,Coastal_West_Bengal,Chhattisgarh,",47,,13230000,13230000
+2013,India,IND,Storm,Lightning/Thunderstorms,"Bihar,Jharkhand,",32,,,
+2013,India,IND,Storm,Tropical cyclone,"Krishna,Guntur,East_Godavari,West_Godavari,Vishakhapatnam,Coastal_Andhra_Pradesh,",10,,,
+2014,India,IND,Storm,Blizzard/Winter storm,"Doda,Bhaderwah,Thathri,Gandoh,Bhallessa,Kishtwar,Jammu_Kashmir,Kora_Pani,Tangdhar,Kupwara,Jumma_Kashmir,",17,,9610,9610
+2014,India,IND,Storm,Lightning/Thunderstorms,"Ghaziabad,Uttar_Pradesh,Delhi,Coastal_West_Bengal,",15,26,,26
+2014,India,IND,Storm,Tropical cyclone,"Vishakhapatnam,Gangavaram,Coastal_Andhra_Pradesh,Baragarh,Bolangir,Boudh,Gajapati,Ganjam,Kalahandi,Kandhamal,Khordha,Koraput,Malkangiri,Nabarangpur,Nayagarh,Nuapada,Puri,Rayagada,Sonepur,Coastal_Odisha,Chhattisgarh,",53,,920000,920000
+2014,India,IND,Storm,Storm (General),"Uttar_Pradesh,",27,,,
+2014,India,IND,Storm,Lightning/Thunderstorms,"Hyderabad,Coastal_Andhra_Pradesh,",7,58,1870,1928
+2015,India,IND,Storm,Lightning/Thunderstorms,"Tripura,",1,,10000,10000
+2015,India,IND,Storm,Lightning/Thunderstorms,"Gujarat,Punjab,Himachal_Pradresh,Haryana,Maharashtra,Bihar,Uttar_Pradesh,Madhya_Pradesh,Rajasthan,Jammu_Kashmir,Uttarakhand,Coastal_West_Bengal,",27,,,
+2015,India,IND,Storm,Severe weather,"Purnia,Madhepura,Madhubani,Supaul,Sitamarhi,Bihar,",100,100,125000,125100
+2015,India,IND,Storm,Lightning/Thunderstorms,"Deogarh,Nabarangpur,Malkangiri,Coastal_Odisha,Coastal_Andhra_Pradesh,",32,,,
+2015,India,IND,Storm,Lightning/Thunderstorms,"Coastal_Andhra_Pradesh,",23,,,
+2015,India,IND,Storm,Lightning/Thunderstorms,"Maharashtra,",29,,,
+2016,India,IND,Storm,Lightning/Thunderstorms,"Muzaffarpur,Patna,Siwan,Bihar,",11,,,
+2016,India,IND,Storm,Lightning/Thunderstorms,"Bihar,Uttar_Pradesh,Jharkhand,Madhya_Pradesh,",93,,,
+2016,India,IND,Storm,Tropical cyclone,"Chennai,Coastal_Tamil_Nadu,Coastal_Andhra_Pradesh,",24,,,
+2017,India,IND,Storm,Tropical cyclone,"Manipur,Mizoram,",,,1970,1970
+2017,India,IND,Storm,Lightning/Thunderstorms,"Vaishali,Saran,Patna,Gaya,Sasaram,Araria,Nalanda,Bihar,",23,12,,12
+2017,India,IND,Storm,Tropical cyclone,"Coastal_Kerala,Thiruvananthapuram,Kozhikode,Ernakulam,Coastal_Tamil_Nadu,Kanyakumari_Munchirai,Thiruvattar,Killiyur,Kurunthancode,Rajakkamangalam,Tirunelveli,Tuticorin,Coastal_Andhra_Pradesh,Chittoor,Nellor,Lakshadweep,",884,,60000,60000
+2017,India,IND,Storm,Lightning/Thunderstorms,"Jamui,Champaran,Vaishali,Samastipur,Bihar,",29,,1250,1250
+2017,India,IND,Storm,Lightning/Thunderstorms,"Maldah,West_Bengal,",4,20,,60020
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Rajasthan,",42,200,,200
+2018,India,IND,Storm,Lightning/Thunderstorms,"Kolkata,",18,50,22000,22050
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Bengale,Bihar,Coastal_Andhra_Pradesh,",95,,,
+2018,India,IND,Storm,Sand/Dust storm,"Rajasthan,Uttar_Pradesh,",143,200,,200
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Kerala,Maharashtra,Mizoram,Rajasthan,",42,,,
+2018,India,IND,Storm,Storm (General),"Uttar_Pradesh,Coastal_West_Bengal,Hill_Assam,Tripura,Manipur,Mizoram,",61,,,
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Coastal_West_Bengal,Tripura,",32,,21000,21000
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Bihar,Jharkhand,",54,,,
+2018,India,IND,Storm,Tropical cyclone,"Mandasa,Godalpur,Gajapati,Ganjam,Rayagada,Puri,Kandhamal,Coastal_Andhra_Pradesh,Coastal_Odisha,",85,200,300000,300200
+2018,India,IND,Storm,Tropical cyclone,"Coastal_Tamil_Nadu,Nagapattinam,Tiruvarur,Thanjavur,Pudukottai,Dindigul,Ramnad,Chennai,Sivaganga,Theni,Madurai,",45,,500000,500000
+2018,India,IND,Storm,Tropical cyclone,"Coasal_Andhra_Pradesh,Coastal_Odisha,",8,,10000,10000
+2019,India,IND,Storm,Storm (General),"Gujarat,Rajasthan,Madhya_Pradesh,Maharashtra,",50,,,
+2019,India,IND,Storm,Tropical cyclone,"Coastal_Odisha,",50,,20000000,20000000
+2019,India,IND,Storm,Lightning/Thunderstorms,"Coastal_Odisha,Hyderabad,",10,,,
+2019,India,IND,Storm,Lightning/Thunderstorms,"Uttar_Pradesh,Maharashtra,Bihar,",50,,,
+2019,India,IND,Storm,Tropical cyclone,"Hill_Assam,Meghalaya,Tripura,Mizoram,Coastal_West_Begal,Coastal_Odisha,",12,,130000,130000
+2020,India,IND,Storm,Blizzard/Winter storm,"Jammu_Kashmir,",11,,,
+2020,India,IND,Storm,Tropical cyclone,"Balasore,Baleshwar,Bhadrak,Kendrapada,Jagatsinghpur,Coastal_ Odisha),East_Midunapur,West_Midhunapur,North_24_Parganas,South_24_Parganas,Nadia,Howrah,Kolkata,Hooghly,Coastal_ West_Bengal,",90,,18000000,18000000
+2020,India,IND,Storm,Tropical cyclone,"Raigad,Pune,Maharashtra,",6,,7500,7500
+2020,India,IND,Storm,Tropical cyclone,"Coastal_Tamil_Nadu,Puducherry",14,,,

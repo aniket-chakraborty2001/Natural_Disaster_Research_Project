@@ -1,0 +1,6 @@
+Year,Country,ISO,Disaster Type,Disaster Subtype,Location,Total Deaths,No. Injured,No. Homeless,Total Affected
+2000,India,IND,Drought,Drought,"New_Delhi,Gujarat,Rajasthan,Madhya_Pradesh,Andhra_Pradesh,Odisha,Maharashtra,",20,,50000000,50000000
+2002,India,IND,Drought,Drought,"Uttar_Pradesh,Madhya_Pradesh,Rajasthan,Punjab,Haryana,New_Delhi,Karnataka,Kerala,Nagaland,Odisha,Chhattisgarh,Himachal_Pradesh,Gujarat,Maharashtra,Andhra_Pradesh,Tamil_Nadu,",,,300000000,300000000
+2009,India,IND,Drought,Drought,"Uttar_Pradesh,Assam,Himachal_Pradesh,Jharkhand,Manipur,Nagaland,Bihar,Karnataka,Maharashtra,Madhya_Pradesh,Rajasthan,",,,,
+2015,India,IND,Drought,Drought,"Tamil_Nadu,Rajasthan,Jharkhand,Assam,Andhra_Pradesh,Himachal_Pradesh,Nagaland,Maharashtra,Bihar,Madhya_Pradesh,Chhattisgarh,Telangana,Jharkhand,Odisha,",,,330000000,330000000
+2018,India,IND,Drought,Drought,"Karnataka,Maharashtra",,,8200000,8200000

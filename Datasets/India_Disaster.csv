@@ -1,0 +1,277 @@
+Year,Country,ISO,Disaster Type,Disaster Subtype,Location,Total Deaths,No. Injured,No. Homeless,Total Affected
+2000,India,IND,Storm,Tropical cyclone,Andhra Pradesh province,,,,
+2000,India,IND,Storm,Tropical cyclone,"Nagappattinam, Thanjavur, Sirkali, Papanasam, Tiruvallur, Tiruvarur areas (Cuddalore district, Tamil Nadu province), Andhra Pradesh province",,,30000.0,30000.0
+2001,India,IND,Storm,Lightning/Thunderstorms,Uttar Pradesh province,21.0,,,
+2001,India,IND,Storm,Tropical cyclone,Andhra Pradesh province,78.0,,25000.0,27000.0
+2001,India,IND,Storm,Tropical cyclone,"Gujarat, Goa, Maharashtra, Kerala provinces",,,,
+2002,India,IND,Storm,Tropical cyclone,West Bengal province,9.0,50.0,,5050.0
+2002,India,IND,Storm,Hail,Orissa province,,200.0,10000.0,10200.0
+2002,India,IND,Storm,Lightning/Thunderstorms,"Gobalpur area (Hugli district, West Bengal), Kolkata, Jalpaiguri, Darjiling districts (West Bengal province)",11.0,,,
+2002,India,IND,Storm,Tropical cyclone,"Baleshwar, Bhadrak, Jagatsinghpur, Kendrapara districts (Orissa province), East Midnapore, North 24 Parganas, South 24 Parganas (West Bengal province)",124.0,,,
+2003,India,IND,Storm,Storm (General),Betul district (Madhya Pradesh province),20.0,,,200.0
+2003,India,IND,Storm,Storm (General),"Jammu and Kashmir (40424 to 40431), Punjab, Haryana provinces",14.0,4.0,,4.0
+2003,India,IND,Storm,Tropical cyclone,Gujarat province,5.0,,140.0,140.0
+2003,India,IND,Storm,Hail,"Bankura, Hugli, Haora districts (West Bengal province)",30.0,500.0,294765.0,485910.0
+2003,India,IND,Storm,Tropical cyclone,"Chirakhawa, Chirakhawa Topopara, Peepulbari part 1, Peepulbari part 2, Bhurakata, Baliabeel, Bengerbhita, Baushkata areas (Dhuburi district, Assam province)",45.0,4000.0,,4600.0
+2003,India,IND,Storm,Tropical cyclone,"Mekhliganj, Haldibari, Fukaldabri, Nijtaraf, Kasiabari, Bholarhat, Beltali areas (Kochbihar district, West Bengal province)",,60.0,,460.0
+2003,India,IND,Storm,Tropical cyclone,"Krishna, Guntur, West Godavari districts (Andhra Pradesh province)",50.0,,,40000.0
+2005,India,IND,Storm,Storm (General),"Barddhaman, North 24 Parganas, South 24 Parganas districts (West Bengal province)",18.0,50.0,,7550.0
+2005,India,IND,Storm,Storm (General),"Guntur, Krishna, Srikakulam, Karimnagar, Nalgonda districts (Andhra Pradesh province)",20.0,20.0,,20.0
+2005,India,IND,Storm,Storm (General),Kolkata district (West Bengal province),11.0,20.0,,20.0
+2005,India,IND,Storm,Storm (General),"Andhra Pradesh, Orissa provinces",33.0,,11000.0,61000.0
+2006,India,IND,Storm,Tropical cyclone,"Andhra Pradesh, West Bengal, Bihar provinces",114.0,300.0,,150300.0
+2006,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, Gujarat provinces",76.0,,,
+2007,India,IND,Storm,Tropical cyclone,"West Bengal, Orissa provinces",,,,
+2008,India,IND,Storm,Sand/Dust storm,Uttar Pradesh province,111.0,50.0,,50.0
+2009,India,IND,Storm,Tornado,Kendrapara district (Orissa province),15.0,50.0,5000.0,9050.0
+2009,India,IND,Storm,Tropical cyclone,"Sagar, Namkhana, Kakdwip, Pathar Pratima, Canning, Basanti, Mathurapur, Kultali villages (South 24 Parganas district, West Bengal province), Kolkata, North 24 Parganas, Haora, Hugli, Darjiling districts (West Bengal province)",96.0,,5100000.0,5100000.0
+2009,India,IND,Storm,Lightning/Thunderstorms,"Bihar, Jharkhand provinces",35.0,12.0,,12.0
+2009,India,IND,Storm,Tropical cyclone,"Gujarat, Madhya Pradesh, Maharashtra provinces",20.0,,,
+2009,India,IND,Storm,Severe weather,Uttar Pradesh province,32.0,23.0,,23.0
+2009,India,IND,Storm,Severe weather,Uttar Pradesh province,20.0,,,
+2010,India,IND,Storm,Tropical cyclone,"Bihar, West Bengal, Assam provinces",114.0,,,500000.0
+2010,India,IND,Storm,Storm (General),"Uttar Pradesh, Bihar provinces",54.0,50.0,,50.0
+2010,India,IND,Storm,Tropical cyclone,"Krishna, Prakasam, Nellore, Guntur districts (Andhra Pradesh province), Tamil Nadu province",32.0,,,
+2010,India,IND,Storm,Lightning/Thunderstorms,"Bihar, Jharkhand provinces",25.0,,,
+2010,India,IND,Storm,Severe weather,"Nawabganj town (Gonda district, Uttar Pradesh province), Allahabad, Unnao districts (Uttar Pradesh province)",12.0,30.0,,2030.0
+2010,India,IND,Storm,Tropical cyclone,Andhra Pradesh province,22.0,,,
+2010,India,IND,Storm,Hail,"Mushalpur, Baksa towns (Nalbari district, Assam province)",28.0,,,5000.0
+2011,India,IND,Storm,Lightning/Thunderstorms,Uttar Pradesh province,42.0,50.0,,50.0
+2011,India,IND,Storm,Tropical cyclone,"Cuddalore district (Tamil Nadu province), Puducherry district (Puducherry province)",47.0,,,250000.0
+2011,India,IND,Storm,Lightning/Thunderstorms,Karnataka province,17.0,,,
+2012,India,IND,Storm,Tropical cyclone,"Andhra Pradesh, Tamil Nadu provinces",40.0,,70000.0,70000.0
+2013,India,IND,Storm,Tornado,Uttar Pradesh province,9.0,,,
+2013,India,IND,Storm,Tropical cyclone,Andhra Pradesh province,8.0,4.0,,4.0
+2013,India,IND,Storm,Tropical cyclone,"Orissa, Andhra Pradesh, Jharkhand, Bihar, West Bengal, Chhattisgarh provinces",47.0,,13230000.0,13230000.0
+2013,India,IND,Storm,Lightning/Thunderstorms,"Bihar, Jharkhand provinces",32.0,,,
+2013,India,IND,Storm,Tropical cyclone,"Krishna, Guntur, East Godavari, West Godavari, Vishakhapatnam districts (Andhra Pradesh province)",10.0,,,
+2014,India,IND,Storm,Blizzard/Winter storm,"Doda, Bhaderwah, Thathri, Gandoh, Bhallessa villages (Kishtwar (72809) district, Jammu and Kashmir (40427) province), Kora Pani, Tangdhar villages (Kupwara (72786) district, Jumma and Kashmir (40431) province)",17.0,,9610.0,9610.0
+2014,India,IND,Storm,Lightning/Thunderstorms,"Ghaziabad district (Utar Pradesh province), Delhi, West Bengal provinces",15.0,26.0,,26.0
+2014,India,IND,Storm,Tropical cyclone,"Vishakhapatnam, Gangavaram towns (Vishakhapatnam district, Andhra Pradesh province), Baragarh, Bolangir, Boudh, Gajapati, Ganjam, Kalahandi, Kandhamal, Khordha, Koraput, Malkangiri, Nabarangpur, Nayagarh, Nuapada, Puri, Rayagada, Sonepur districts (Orissa province), Chhattisgarh province",53.0,,920000.0,920000.0
+2014,India,IND,Storm,Storm (General),Uttar Pradesh province,27.0,,,
+2014,India,IND,Storm,Lightning/Thunderstorms,Hyderabad district (Andhra Pradesh province),7.0,58.0,1870.0,1928.0
+2015,India,IND,Storm,Lightning/Thunderstorms,Tripura province,1.0,,10000.0,10000.0
+2015,India,IND,Storm,Lightning/Thunderstorms,"Gujarat, Punjab, Himachal Pradresh, Haryana, Maharashtra, Bihar, Uttar Pradesh, Madhya Pradesh, Rajasthan, Jammu and Kashmir, Uttarakhand, West Bengal provinces",27.0,,,
+2015,India,IND,Storm,Severe weather,"Purnia, Madhepura, Madhubani, Supaul, Sitamarhi districts (Bihar province)",100.0,100.0,125000.0,125100.0
+2015,India,IND,Storm,Lightning/Thunderstorms,"Deogarh, Nabarangpur, Malkangiri districts (Orissa province), Andhra Pradesh province",32.0,,,
+2015,India,IND,Storm,Lightning/Thunderstorms,Andhra Pradesh province,23.0,,,
+2015,India,IND,Storm,Lightning/Thunderstorms,Maharashtra province,29.0,,,
+2016,India,IND,Storm,Lightning/Thunderstorms,"Muzaffarpur, Patna, Siwan districts (Bihar province)",11.0,,,
+2016,India,IND,Storm,Lightning/Thunderstorms,"Bihar, Uttar Pradesh, Jharkhand, Madhya Pradesh provinces",93.0,,,
+2016,India,IND,Storm,Tropical cyclone,Chennai district (Tamil Nadu province); Andhra Pradesh,24.0,,,
+2017,India,IND,Storm,Tropical cyclone,"Manipur, Mizoram",,,1970.0,1970.0
+2017,India,IND,Storm,Lightning/Thunderstorms,"Vaishali, Saran, Patna, Gaya, Sasaram (Rohta), Araria, Nalanda districts (Bihar)",23.0,12.0,,12.0
+2017,India,IND,Storm,Tropical cyclone,"Kerala (Thiruvananthapuram, Kozhikode,Ernakulam),Tamil Nadu (Kanyakumari-Munchirai, Thiruvattar,Killiyur, Kurunthancode, Rajakkamangalam-, Tirunelveli, Tuticorin districts), Andhra Pradesh (Chittoor and Nellore), Lakshadweep Islands",884.0,,60000.0,60000.0
+2017,India,IND,Storm,Lightning/Thunderstorms,"Jamui, Champaran, Vaishali, Samastipur, Bihar",29.0,,1250.0,1250.0
+2017,India,IND,Storm,Lightning/Thunderstorms,Maldah (West Bengal),4.0,20.0,,60020.0
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, Rajasthan",42.0,200.0,,200.0
+2018,India,IND,Storm,Lightning/Thunderstorms,Kolkata,18.0,50.0,22000.0,22050.0
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, Bengale occidental, Bihar, Andhra Pradesh",95.0,,,
+2018,India,IND,Storm,Sand/Dust storm,"Rajasthan, Uttar Pradesh",143.0,200.0,,200.0
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, Kerala, Maharashtra, Mizoram, Rajasthan",42.0,,,
+2018,India,IND,Storm,Storm (General),"Uttar Pradesh, West Bengal, Assam, Tripura, Manipur, Mizoram",61.0,,,
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, West Bengal, Tripura",32.0,,21000.0,21000.0
+2018,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, Bihar, Jharkhand",54.0,,,
+2018,India,IND,Storm,Tropical cyclone,"Mandasa, Godalpur, Gajapati, Ganjam, Rayagada, Puri, Kandhamal (Andhra Pradesh & Odisha)",85.0,200.0,300000.0,300200.0
+2018,India,IND,Storm,Tropical cyclone,"Tamil Nadu, Nagapattinam, Tiruvarur, Thanjavur, Pudukottai, Dindigul and Ramnad, Chennai, Sivaganga, Theni, Madurai districts",45.0,,500000.0,500000.0
+2018,India,IND,Storm,Tropical cyclone,"Andhra Pradesh, Odisha",8.0,,10000.0,10000.0
+2019,India,IND,Storm,Storm (General),"Gujarat, Rajasthan, Madhya Pradesh, Maharashtra",50.0,,,
+2019,India,IND,Storm,Tropical cyclone,Odisha province,50.0,,20000000.0,20000000.0
+2019,India,IND,Storm,Lightning/Thunderstorms,"Odisha, Hyderabad",10.0,,,
+2019,India,IND,Storm,Lightning/Thunderstorms,"Uttar Pradesh, Maharashtra, and Bihar",50.0,,,
+2019,India,IND,Storm,Tropical cyclone,"South Assam, Meghalaya, Tripura, Mizoram, West Begal, Odisha state",12.0,,130000.0,130000.0
+2020,India,IND,Storm,Blizzard/Winter storm,Jammu & Kashmir state,11.0,,,
+2020,India,IND,Storm,Tropical cyclone,"Balasore (Baleshwar) , Bhadrak, Kendrapada and Jagatsinghpur (Odisha); East Midunapur, West Midhunapur, North24 Parganas, South24 Parganas, Nadia, Howrah, Kolkata and Hoogli (West Bengal)",90.0,,18000000.0,18000000.0
+2020,India,IND,Storm,Tropical cyclone,"Raigad, Pune Districts (Maharashtra State)",6.0,,7500.0,7500.0
+2020,India,IND,Storm,Tropical cyclone,Tamil Nadu and Puducherry,14.0,,,
+2000,India,IND,Flood,Flash flood,"Yingkiang,Tuting villages (Upper Siang (70051) district, Arunachal Pradesh province), Along, Boleng villages (70054 district, Arunachal Pradesh province), Pasighat, Sika-bamin, Komlighat, Raneghat (70041 district, Arunachal Pradesh province), Tezu, Mahadevpur villages (Lohit district, Arunachal Pradesh province), Golaghat, Nagaon districts (Assam province), ",20.0,,3000000.0,3000000.0
+2000,India,IND,Flood,Flash flood,"East Siang, 70041, West Siang, 70054, Upper Siang (70051), 70045, 70050, Lower Dibang Valley districts (Arunachal Pradesh province)",130.0,,,
+2000,India,IND,Flood,Riverine flood,"Katihar, Sitamarhi districts (Bihar province), Kinnaur district (Himachal Pradesh province), Bankura, Barddhaman, Birbhum, Haora, Hugli, Maldah, Murshidabad, Nadia, North 24 Parganas, West Midnapore districts (West Bengal province), Pithoragarh, Naini Tal districts (Uttarakhand province), Ahmadabad district (Gujarat province), Andhra Pradesh, Assam, Arunachal Pradesh, Madhya Pradesh, Punjab, Uttar Pradesh, Maharashtra, Rajasthan, Chandigarh, Kerala",867.0,,22000000.0,22000000.0
+2000,India,IND,Flood,Flash flood,"Adilabad, Cuddapah, East Godavari, Guntur, Hyderabad, Karimnagar, Khammam, Krishna, Kurnool, Mahbubnagar, Medak, Nalgonda, Nellore, Nizamabad, Prakasam, Rangareddi, Vishakhapatnam, Warangal, West Godavari districts (Andhra Pradesh province)",179.0,16.0,,252016.0
+2000,India,IND,Flood,Riverine flood,"Birbhum, Bardhaman, Murshidabad, Maldah districts (West Bengal province), Dumka, Sahibganj, Deoghar districts (Jharkhand province), Banka, Bhagalpur, Munger, Sheikhpura districts (Bihar province)",884.0,,24600000.0,24600000.0
+2000,India,IND,Flood,Flood (General),North 24 Parganas district (West Bengal province),6.0,,534035.0,534035.0
+2001,India,IND,Flood,Riverine flood,"Silchar city (Cachar district, Assam province), Patharkandi village (Karimganj district, Assam province), West Tripura district (Tripura province)",5.0,,700000.0,700000.0
+2001,India,IND,Flood,Riverine flood,"Marshagal, Mahakalpada villages (Kendrapara district, Orissa province), Kakatpur, Astaranga, Kanas, Delanga villages (Puri district, Orissa province), Banki, Kantapada villages (Cuttack district, Orissa province), Balipatna villages (Khordha district, Orissa province), Atharmalik villages (Angul district, Orissa province), Jajpur, Jagatsinghpur, Kalahandi, Koraput, Bolangir, Nayagarh, Baleshwar, Bhadrak districts (Orissa province), Dhamtari, Raipur, Mahasamund, Janjgir-Champa, Raigarh districts (Chhattisgarh province)",100.0,,9670000.0,9670000.0
+2001,India,IND,Flood,Flood (General),"Hosdurg borough (Kanhangad city, Kasaragod district, Kerala province), Vertak Nagar area (Thane district, Maharashtra province), Bhandup area (Mumbai Suburban district, Maharashtra province)",28.0,4.0,,4.0
+2001,India,IND,Flood,Riverine flood,"Idukki, Kottayam, Pattanamtitta, Kollam, Alappuzha districts (Kerala province)",86.0,,40000.0,40000.0
+2001,India,IND,Flood,Riverine flood,"Aurangabad, Bhojpur, Gopalganj, Jehanabad, Muzaffarpur, Nalanda, Pashchim Champaran, Patna, Purba Champaran, Rohtas, Saran, Sitamarhi, Siwan, Vaishali districts (Bihar province)",,,400000.0,400000.0
+2001,India,IND,Flood,Flood (General),Delhi province,10.0,36.0,,36.0
+2001,India,IND,Flood,Flood (General),"Gopalganj, Purba Champaran, Pashchim Champaran, Muzaffarpur, Vaishali, Saran districts (Bihar province)",158.0,,7000000.0,7000000.0
+2001,India,IND,Flood,Flash flood,"Saran, Gopalganj, Purba Champaran, Madhubani districts (Bihar province), Uttar Pradesh province",48.0,,2800000.0,2800000.0
+2001,India,IND,Flood,Flood (General),"Saran, Gopalganj districts (Bihar province)",146.0,,,
+2002,India,IND,Flood,Riverine flood,"Barpeta, Bongaigaon, Cachar, Darrang, Dhemaji, Dhuburi, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Karimganj, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Nalbari, Sibsagar, Sonitpur, Tinsukia districts (Assam province), Araria, Begusarai, Bhagalpur, Darbhanga, Gopalganj, Katihar, Khagaria, Kishanganj, Madhepura, Madhubani, Muzaffarpur, Nalanda, Pashchim Champaran, Patna, Pruba Champaran, Purnia, Saharsa, Samastipur, Saran, Sheikhpura, Sheohar, Sitamarhi, Siwan, Supaul districts (Bihar province), Lahul and Spiti district (Himachal Pradesh province), Balaghat district (Madhya Pradesh province), Tehri Garhwal district (Uttarakhand province), Adilabad, Khammam, Karimnagar districts (Andhra Pradesh province), Jalpaiguri, Kochbihar, Darjiling districts (West Bengal province), Meghalaya, Tripura, Arunachal Pradesh, Gujarat, Kerala, Manipur, Maharashrta provinces",549.0,,42000000.0,42000000.0
+2002,India,IND,Flood,Riverine flood,"Tehri Garhwal district (Uttaranchal province), Bihar, Assam, Manipur provinces",33.0,50.0,,50.0
+2002,India,IND,Flood,Riverine flood,Balaghat district (Madhya Pradesh province),100.0,,3000.0,3000.0
+2002,India,IND,Flood,Riverine flood,"Bharuch district (Gujarat province), Jalgaon, Nasik districts (Maharashtra province)",22.0,,5000.0,5000.0
+2002,India,IND,Flood,Riverine flood,"Kannur, Kasaragod, Kozhikode, Malappuram, Thiruvananthapuram districts (Kerala province)",11.0,,,
+2002,India,IND,Flood,Flood (General),"Chennai, Coimbatore, Cuddalore districts (Tamil Nadu province",20.0,,200.0,200.0
+2003,India,IND,Flood,Riverine flood,"Assam, Bihar, Tripura, West Bengal provinces",142.0,,4550000.0,4550000.0
+2003,India,IND,Flood,Riverine flood,"Khavda, Banni, Natkharana, Lakhpat villages (Kachchh district, Gujarat province)",13.0,,10000.0,14500.0
+2003,India,IND,Flood,Riverine flood,"Cuttack, Jagatsinghpur, Kendrapara, Jajpur, Puri, Bolangir, Sonepur, Kalahandi, Rayagada, Gajapati, Baragarh, Koraput, Nayagarh, Ganjam, Angul districts (Orissa province)",67.0,,3000000.0,3000000.0
+2003,India,IND,Flood,Flash flood,Kullu district (Himachal Pradesh province),150.0,30.0,,30.0
+2003,India,IND,Flood,Flash flood,"Solang village (Kullu district, Himachal Pradesh)",43.0,15.0,,15.0
+2003,India,IND,Flood,Riverine flood,Uttar Pradesh province,37.0,,,
+2004,India,IND,Flood,Riverine flood,"Leimapokpam, Thiyam, Lourembam, Nambol Laitonjam villages (Bishnupur district, Manipur province), Na-Orem, Pukhrambam, Sanjenbam villages (West Imphal district, Manipur province), Oinam, Khangabok villages (Thoubal district, Manipur province)",,,,5000.0
+2004,India,IND,Flood,Riverine flood,"Darbhanga, Madhubani, Sitamarhi, Banka, Bhagalpur, Muzaffarpur, Sheohar districts (Bihar province), West Tripura, South Tripura districts (Tripura province), Kamrup, Nalbari, Darrang, Sonitpur, Dhemaji, Lakhimpur districts (Assam province), Gujarat, Jammu and Kashmir provinces",900.0,,33000000.0,33000000.0
+2004,India,IND,Flood,Riverine flood,"Wayanad, Kozhikode, Kannur, Kasaragod districts (Kerala province)",45.0,,1000.0,1000.0
+2004,India,IND,Flood,Flash flood,"Uttar Pradesh, Himachal Pradesh provinces",33.0,,,
+2004,India,IND,Flood,Flash flood,"Goalpara district (Assam province), Meghalaya, Arunachal Pradesh, West Bengal provinces",160.0,,,100000.0
+2004,India,IND,Flood,Riverine flood,"Uttarakhand, Gujarat, Maharashtra, Punjab, Haryana, Rajasthan provinces",210.0,,100000.0,100000.0
+2005,India,IND,Flood,Riverine flood,Mokokchung district (Nagaland province),14.0,12.0,,12.0
+2005,India,IND,Flood,Riverine flood,"Surat, Valsad, Navsari, Bharuch, Vadodara, Surendranagar, The Dangs, Ahmedabad, Anand, Kheda, Amreli, Bhavnagar, Junagadh, Rajkot, Narmada, Jamnagar, Gandhinagar, Sabarkantha districts (Gujarat province)",239.0,,405000.0,405000.0
+2005,India,IND,Flood,Riverine flood,"Digras, Nandgavan villages (Yavatmal district, Maharashtra province)",25.0,,,
+2005,India,IND,Flood,Riverine flood,"Sangla, Kalpa, Yangthang, Sumdo, Khab, Karcham, Leo, Akpa, Kharo villages (Kinnaur district, Himachal Pradesh province), Rampur Bushahr village (Shimla district, Himachal Pradesh province), Kullu, Bilaspur, Mandi districts (Himachal Pradesh)",6.0,,5000.0,5000.0
+2005,India,IND,Flood,Riverine flood,"Yingkiong village (Upper Siang (70051) district, Arunachal Pradesh province), Seppa village (East Kameng (70040) district, Arunachal Pradesh province), Anini village (70050 district, Arunachal Pradesh province), Dibrugarh, Sonitpur, Sibsagar, Dhemaji, Tinsukia, Karimganj, Lakhimpur, Jorhat, Morigaon, Dhuburi, Goalpara, Barpeta districts (Assam province), Bahraich, Shravasti, Banda, Ballia, Lakhimpur Kheri, Kanpur, Varanasi, Mainpuri districts (Uttar Pradesh province), Haridwar, Uttarkashi, Naini Tal, Dehran Dun districts (Uttarakhand province), Muzaffarpur, Darbhanga, Madhubani districts (Bihar province), Birbhum district (West Bengal province)",70.0,,1904000.0,1908000.0
+2005,India,IND,Flood,Riverine flood,"Ashoknagar, Chhatarpur, Damoh, Jabalpur, Katni, Narsinghpur, Panna, Rewa, Sagar, Satna districts (Madhya Pradesh province)",62.0,,49000.0,49000.0
+2005,India,IND,Flood,Riverine flood,"Adilabad, Hyderabad, Karimnagar, Khammam, Mahbubnagar, Medak, Nalgonda, Nizamabad, Rangareddi, Warangal, East Godavari, Guntur, Krishna, Nellore, Prakasam, Srikakulam, Vishakhapatnam, Vizianagaram, West Godavari districts (Andhra Pradesh province)",12.0,,10000.0,10000.0
+2005,India,IND,Flood,Riverine flood,"Gujarat, Madhya Pradesh, Maharashtra, Goa, Orissa, Karnataka, Himachal Pradesh, Jammu and Kashmir provinces",1200.0,55.0,20000000.0,20000055.0
+2005,India,IND,Flood,Flash flood,Azamgarh district (Uttar Pradesh province),27.0,,800000.0,800000.0
+2005,India,IND,Flood,Riverine flood,"Karnataka, Andhra Pradesh provinces",126.0,,100000.0,100000.0
+2005,India,IND,Flood,Riverine flood,"Himachal Pradesh, Uttar Pradesh, Uttarakhand provinces",23.0,4.0,,2504.0
+2005,India,IND,Flood,Riverine flood,"Raj Nandgaon, Durg districts (Chhattisgarh province), Baleshwar, Bhadrak, Jajpur districts (Orissa province), Bhandara, Gondiya, Nagpur districts (Maharashtra province), Balaghat, Katni, Jabalpur, Seoni districts (Madhya Pradesh province)",89.0,,550000.0,550000.0
+2005,India,IND,Flood,Riverine flood,"East Midnapore, South 24 Parganas, Barddhaman, Nadia districts (West Bengal province), Baleshwar district (Orissa province)",19.0,,2000000.0,2250000.0
+2005,India,IND,Flood,Riverine flood,"Surat, Vadodara, Bhavnagar, Panch Mahals, Narmada districts (Gujarat province)",15.0,,,
+2005,India,IND,Flood,Riverine flood,"Salem, Namakkal, Karur, Erode, Tiruchchirappalli, Vellore, Perambalur, Nagapattinam, Kanniyakumari, Dharmapuri, Madurai, Villupuram, Chennai, Cuddalore districts (Tamil Nadu province), Karaikal district (Puducherry province), Bangalore Rural, Bangalore Urban, Mysore districts (Karnataka province), Nellore, Chittoor, Vishakhapatnam, Srikakulam, Vizianagaram, Cuddapah districts (Andhra Pradesh province), West Bengal, Orissa provinces",162.0,,2000000.0,2000000.0
+2005,India,IND,Flood,Riverine flood,Tamil Nadu province,30.0,,200000.0,200000.0
+2005,India,IND,Flood,Riverine flood,"Himachal Pradesh, Punjab, Jammu and Kashmir, Haryana provinces",10.0,,2000.0,2000.0
+2006,India,IND,Flood,Flash flood,"Adilabad, Hyderabad, Karimnagar, Khammam, Mahbubnagar, Medak, Nalgonda, Nizamabad, Rangareddi, Warangal, Srikakulam, Krishna districts (Andhra Pradesh province)",20.0,,,
+2006,India,IND,Flood,Riverine flood,"Assam, Tripura provinces",21.0,,504000.0,504000.0
+2006,India,IND,Flood,Riverine flood,Kerala province,32.0,,10800.0,10800.0
+2006,India,IND,Flood,Riverine flood,"Maharashtra, Gujarat provinces",41.0,,,
+2006,India,IND,Flood,Riverine flood,"Ballia, Chandauli districts (Uttar Pradesh province)",130.0,,300000.0,300000.0
+2006,India,IND,Flood,Riverine flood,"Navsari, The Dangs districts (Gujarat)",24.0,,8400.0,8400.0
+2006,India,IND,Flood,Riverine flood,"Gajapati, Rayagada districts (Orissa province)",33.0,,,
+2006,India,IND,Flood,Riverine flood,Jammu and Kashmir provinces,15.0,,800.0,800.0
+2006,India,IND,Flood,Riverine flood,"Andhra Pradesh, Gujarat, Maharashtra, Chhattisgarh, Rajasthan, Madhya Pradesh, Orissa, Karnataka provinces",350.0,65.0,,4000065.0
+2006,India,IND,Flood,Riverine flood,Gujarat province,,,50000.0,50000.0
+2006,India,IND,Flood,Riverine flood,"Barmer, Jaisalmer, Kota, Udaipur districts (Rajasthan province)",135.0,,20000.0,20000.0
+2006,India,IND,Flood,Flash flood,Jammu and Kashmir provinces,19.0,,15000.0,15000.0
+2006,India,IND,Flood,Riverine flood,"Balrampur, Bahraich, Lakhimpur Kheri, Shravasti, Gonda, Bara Banki districts (Uttar Pradesh province)",42.0,,100000.0,100000.0
+2006,India,IND,Flood,Riverine flood,"Tamil Nadu, Andhra Pradesh provinces",47.0,,225000.0,225000.0
+2006,India,IND,Flood,Riverine flood,"Orissa, Andhra Pradesh, Chhattisgarh provinces",185.0,,2000000.0,2000000.0
+2006,India,IND,Flood,Riverine flood,"Madhya Pradesh, Maharashtra, Rajasthan provinces",61.0,113.0,,113.0
+2006,India,IND,Flood,Flash flood,Madhya Pradesh province,39.0,,,
+2007,India,IND,Flood,Riverine flood,"Lakhimpur, Dhemaji, Cachar, Karimganj, Hailakandi, Darrang, Dibrugarh districts (Assam province)",15.0,,200000.0,200000.0
+2007,India,IND,Flood,Riverine flood,"Junagadh district (Daman and Diu province), Amreli, Bhavnagar, Jamnagar, Junagadh, Porbandar, Rajkot, Surendranagar districts (Gujarat province), Rajasthan, Madhya Pradesh",225.0,,63000.0,63000.0
+2007,India,IND,Flood,Riverine flood,"Amravati, Mumbai City, Mumbai Suburban, Raigarh, Ratnagiri, Sindhudurg, Thane districts (Maharashtra province)",62.0,,10000.0,10000.0
+2007,India,IND,Flood,Riverine flood,"Raipur, Bilaspur, Mahasamund, Durg districts (Chhattisgarh province)",29.0,,50000.0,50000.0
+2007,India,IND,Flood,Flash flood,"Kurnool, Mahbubnagar, Guntur, Prakasam, East Godavari, West Godavari, Anantapur, Cuddapah districts (Andhra Pradesh province), Thrissur district (Kerala province), Belgaum, Bijapur, Bagalkot, Kodagu, Hassan, Mysore districts (Karnataka province), Mumbai City, Pune districts (Maharashtra province)",127.0,,200000.0,200000.0
+2007,India,IND,Flood,Riverine flood,"Udaipur, Amarpur cities (South Tripura district, Tripura province), Sonamura citiy (West Tripura district, Tripura province)",,,,
+2007,India,IND,Flood,Riverine flood,"Bihar, Uttar Pradesh, Assam, Orissa, West Bengal provinces",1103.0,,18700000.0,18700000.0
+2007,India,IND,Flood,Riverine flood,Himachal Pradesh province,76.0,,15000.0,15000.0
+2007,India,IND,Flood,Riverine flood,Gujarat province,16.0,,,
+2007,India,IND,Flood,Coastal flood,"Baleshwar, Kendrapara, Bhadrak, Jagatsinghpur, Jajpur, Mayurbhanj, Khordha, Cuttack, Puri, Kandhamal districts (Orissa province), Kolkata, South 24 Parganas, East Midnapore, West Midnapore, Hughli districts (West Bengal province)",80.0,,7200000.0,7200000.0
+2007,India,IND,Flood,Riverine flood,"Kurnool, Cuddapah, Warangal, Nalgonda, Karimnagar, Mahbubnagar, Anantapur, Nellore, Krishna districts (Andhra Pradesh province), Gadag district (Karnataka province)",94.0,,20000.0,20000.0
+2007,India,IND,Flood,Riverine flood,"Andhra Pradesh, Tamil Nadu province",29.0,,50000.0,50000.0
+2007,India,IND,Flood,Riverine flood,"Cuttack, Puri, Khordha, Jajpur, Jagatsinghpur districts (Orissa province)",15.0,,500000.0,500000.0
+2007,India,IND,Flood,Riverine flood,"Assam, Arunachal Pradesh, Meghalaya, Manipur provinces",96.0,,11100000.0,11100000.0
+2007,India,IND,Flood,Riverine flood,Kerala province,44.0,,35000.0,35000.0
+2007,India,IND,Flood,Flood (General),"Rajasthan, Uttar Pradesh, Madhya Pradesh, Jammu and Kashmir provinces",40.0,8.0,,8.0
+2008,India,IND,Flood,Flood (General),"Tamil Nadu, Karnataka provinces",37.0,,10278.0,10278.0
+2008,India,IND,Flood,Flash flood,"Lakhimpu, Dhemaji, Sonitpur districts (Assam province), West Bengal, Orissa, Bihar, Gujarat, Goa, Haryana, Kerala, Karnataka, Maharastra, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, Tamil Nadu, Arunachal Pradesh, Uttarakhand, Jharkhand provinces",1063.0,,7900000.0,7900000.0
+2008,India,IND,Flood,Riverine flood,"Assam, Bihar, Gujarat, Goa, Haryana, Jharkhand, Kerala, Karnataka, Maharashtra, Madhya Pradesh, Punjab, Orissa, Rajasthan, Uttarakhand, Uttar Pradesh, Tamil Nadu, West Bengal provinces",,,50000.0,50000.0
+2008,India,IND,Flood,Riverine flood,"Khammam, West Godavari, Krishna, Guntur districts (Andhra Pradesh province)",74.0,,,
+2008,India,IND,Flood,Riverine flood,"Orissa, Uttar Pradesh, Himachal Pradesh provinces",173.0,,,2400000.0
+2008,India,IND,Flood,Riverine flood,"Muzaffarpur, Supaul, Patna, Katihar, Nalanda, Araria, Pashchim Champaran, Sheikhpura, Saharsa, Purnia, Saran, Begusarai, Bhagalpur, Madhepura, Vaishali, Khagaria districts (Bihar province), Assam province",47.0,,2600000.0,2600000.0
+2008,India,IND,Flood,Flash flood,"Thiruvallur, Thoothukudi, Villupuram, Ramanathapuram, Tirunelveli Kattabo, Pudukkottai, Kanniyakumari, Nagapattinam, Cuddalore, Chennai districts (Tamil Nadu province), Puducherry, Karaikal districts (Puducherry province)",54.0,,803740.0,803740.0
+2008,India,IND,Flood,Riverine flood,"Lakhimpur, Jorhat districts (Assam province), Uttar Pradesh, Bihar provinces",142.0,,225000.0,225000.0
+2009,India,IND,Flood,Flash flood,Delhi province,11.0,,,
+2009,India,IND,Flood,Riverine flood,"Bihar, Orissa, West Bengal, Assam, Kerala, Gujarat, Karnataka provinces",992.0,,1886000.0,1886000.0
+2009,India,IND,Flood,Riverine flood,"Belgaum, Gulbarga, Bijapur, Raichur, Dharwad, Bagalkot, Bellary, Koppal, Haveri, Bidar, Gadag, Davanegere, Uttar Kannand, Dakshin Kannad districts (Karnataka province), Kurnool, Mahbubnagar, Karimnagar, Anantapur, Krishna, Cuddapah, Guntur, Khammam, Nalgonda districts (Andhra Pradesh province), Maharashtra province",355.0,,4100000.0,4100000.0
+2009,India,IND,Flood,Riverine flood,Jainta Hills district (Meghalaya province),20.0,,,
+2009,India,IND,Flood,Riverine flood,"Ooty, Coonoor cities (Nilgiris district, Tamil Nadu)",70.0,8.0,,8.0
+2009,India,IND,Flood,Riverine flood,"Darbhanga, Purnia, Sitamarhi, Saharsa, Madhubani districts (Bihar province)",52.0,,,
+2010,India,IND,Flood,Riverine flood,"Ambala, Kurukshetra districts (Haryana province), Punjab, Kerala provinces",53.0,,,400000.0
+2010,India,IND,Flood,Riverine flood,Andhra Pradesh province,27.0,,50000.0,50000.0
+2010,India,IND,Flood,Riverine flood,Delhi province,11.0,,,
+2010,India,IND,Flood,Flash flood,"Leh, Cholglamsar villages (72785 district, Jammu and Kashmir province)",196.0,225.0,12500.0,12725.0
+2010,India,IND,Flood,Riverine flood,Lakhimpur district (Assam province),,,30000.0,30000.0
+2010,India,IND,Flood,Riverine flood,"Almora, Naini Tal districts (Uttarakhand province), Bihar, Uttar Pradesh provinces",200.0,,3267183.0,3267183.0
+2010,India,IND,Flood,Riverine flood,"Punjab, Haryana, Uttar Pradesh provinces",,,12500.0,12500.0
+2010,India,IND,Flood,Riverine flood,"Chennai, Cuddalore, Nagapattinam, Pudukottai, Ramanthapuram, Thanjavur, Thiruvallur, Villupuram, Thoothukudi, Tirunelveli Kattabo districts (Tamil Nadu province)",203.0,,,
+2011,India,IND,Flood,Riverine flood,West Bengal province,47.0,,700000.0,700000.0
+2011,India,IND,Flood,Riverine flood,"Angul, Baleshwar, Baragarh, Bhadrak, Boudh, Cuttack, Deogarh, Dhenkanal, Jajpur, Jagatsinghpur, Jharsuguda, Kendrapara, Khordha, Mayurbhanj, Nayagarh, Nuapada, Puri, Sambalpur districts (Orissa province)",239.0,,3443989.0,3443989.0
+2011,India,IND,Flood,Riverine flood,"Dhemaji district (Assam province), East Garo Hills, South Garo Hills, West Garo Hills districts (Meghalaya province)",7.0,,11000.0,11000.0
+2011,India,IND,Flood,Riverine flood,"Barpeta, Bongaigaon, Darrang, Dhemaji, Dhuburi, Golaghat, Jorhat, Karbi Anglong, Sibsagar, Lakhimpur, Nagaon, Sonitpur districts, (Assam province), Begusarai, Bhagalpur, Bhojpur, Buxar, Gopalganj, Katihar, Khagaria, Kishanganj, Lakhisarai, Madhubani, Madhepura, Muzaffarpur, Patna, Purnia, Samastipur, Saran, Saharsa, Sitamarhi, Supaul, Vaishali, Pashchim Champaran districts (Bihar province), Azamgarh, Aligarh, Ambedkar Nagar, Badaun, Ballia, Bara Banki, Bahraich, Bareilly, Bijnor, Faizabad, Farrukhabad, Ghazipur, Gonda, Gorakhpur, Hardoi, Jyotiba Phule Nagar, Kannauj, Kanpur, Kushinagar, Lakhimpur Kheri, Meerut, Muzaffarnagar, Moradabad, Pilibhit, Rampur, Shahjahanpur, Sitapur, Unnao districts (Uttar Pradesh province)",204.0,,5549080.0,5549080.0
+2011,India,IND,Flood,Riverine flood,"Gonda, Balrampur, Faizabad, Bara Banki districts (Uttar Pradesh province), Rajasthan province",19.0,,200000.0,200000.0
+2011,India,IND,Flood,Riverine flood,Orissa province,42.0,,2100000.0,2100000.0
+2011,India,IND,Flood,Riverine flood,"Uttar Pradesh, Uttarakhand province",50.0,,,
+2012,India,IND,Flood,Riverine flood,"Anjaw (70044), Lohit, Changlang, 70045, 70050, Lower Dibang Valley, East Siang, Upper Siang (70051) districts (Arunachal Pradesh province), Assam province",120.0,,2200000.0,2200000.0
+2012,India,IND,Flood,Riverine flood,"Jaipur, Dhaulpur, Dausa, Tonk, Jhunjhunun, Sikar, Hanumangarh, Bikaner districts (Rajasthan province), Anjaw (70044), 70045, 70050, Lower Dibang Valley, Upper Siang (70051) districts (Arunachal Pradesh province)",37.0,,,37500.0
+2012,India,IND,Flood,Riverine flood,"Palchan village (Kullu district, Himachal Pradesh province), Uttarkashi, Rudra Prayag, Chamoli districts (Uttarakhand province), Moradabad district (Uttar Pradesh province), Kathua village (72780 district, Jammu and Kashmir province)",30.0,,1200.0,1200.0
+2012,India,IND,Flood,Riverine flood,"Rudra Prayag, Bageshwar districts (Uttarakhand province)",45.0,,200.0,200.0
+2012,India,IND,Flood,Riverine flood,"Barpeta, Bongaigaon, Darrang, Dhemaji, Dhuburi, Dibrugarh, Goalpara, Golaghat, Jorhat, Kamrup, Lakhimpur, Marigaon, Nagaon, Nalbari, Papum Pare, Sibsagar, Sonitpur, Tinsukia districts (Assam province), Bhagalpur, Darbhanga, Katihar, Khagaria, Muzaffarpur, Patna, Siwan, Supaul districts (Bihar province), Sahibganj district (Jharkhand province), North Sikkim district (Sikkim province), Ballia, Bara Banki, Faizabad districts (Uttar Pradesh province), Murshidabad district (West Bengal province), West Siang, East Siang, Lohit, Papum Pare districts (Arunachal Pradesh province)",21.0,,2000000.0,2000000.0
+2012,India,IND,Flood,Riverine flood,Himachel Pradesh province,26.0,,9460.0,9460.0
+2013,India,IND,Flood,Riverine flood,"Uttarakhand, Himachal Pradesh, Uttar Pradesh, Bihar, Karnataka, Kerala, Gujarat, West Bengal provinces",6054.0,4473.0,500000.0,504473.0
+2013,India,IND,Flood,Riverine flood,"Sultanpur, Sitapur, Rae Bareli, Bara Banki, Faizabad, Gorakhpur, Basti, Kushinagar, Bahraich, Gonda, Shravasti districts (Uttar Pradesh province)",174.0,,500000.0,500000.0
+2013,India,IND,Flood,Flood (General),"Dhemaji, Tinsukia, Nagaon, Golaghat, Jorhat, Kamrup, Karimganj, Lakhimpur, Morigaon, Sibsaga, Bongaigaon, Kokrajhar districts (Assam province)",80.0,,2000000.0,2000000.0
+2013,India,IND,Flood,Riverine flood,"Bhopal, Hoshangabad, Seoni, Narsinghpur, Jabalpur districts (Madhya Pradesh province), Uttar Pradesh, Assam provinces",73.0,,40000.0,40000.0
+2013,India,IND,Flood,Riverine flood,"Orissa, Andhra Pradesh, West Bengal provinces",72.0,,375000.0,375000.0
+2014,India,IND,Flood,Riverine flood,Assam province,27.0,,18500.0,18500.0
+2014,India,IND,Flood,Riverine flood,"Uttarakhand, Himachal Pradesh provinces",26.0,,,
+2014,India,IND,Flood,Riverine flood,Orissa province,35.0,,179000.0,179000.0
+2014,India,IND,Flood,Riverine flood,Jammu and Kashmir provinces,298.0,,275000.0,275000.0
+2014,India,IND,Flood,Riverine flood,"Tura village (West Garo Hills district, Meghalaya province), Goalpara, Kamrup districts (Assam province)",95.0,,,650000.0
+2014,India,IND,Flood,Riverine flood,"Shravasti, Balrampur, Sitapur, Lakhimpur Kheri, Gonda, Bara Banki, Faizabad, Azamgarh districts (Uttar Pradesh province), Uttarakhand, Bihar, Assam provinces",94.0,,500000.0,500000.0
+2014,India,IND,Flood,Riverine flood,Odisha province,47.0,,3600000.0,3600000.0
+2015,India,IND,Flood,Flash flood,"Chadoora village (72811 district, Jammu and Kashmir province)",44.0,25.0,,2122.0
+2015,India,IND,Flood,Flash flood,"Bhadrairuppu village (Virudhunagar district, Tamil Nadu province)",8.0,,200.0,200.0
+2015,India,IND,Flood,Riverine flood,"Amreli, Rajkot, Surat districts (Gujarat province), Maharashtra province",81.0,,9000.0,9000.0
+2015,India,IND,Flood,Riverine flood,"Mirik, Kalimpong, Darjeeling villages (Darjiling district, West Bengal province),",40.0,,,1000.0
+2015,India,IND,Flood,Riverine flood,"Kachchh, Patan, Banas Kantha districts (Gujarat province), Malda, Jalpaiguri districts (West Bengal province), Jorhat, Dhemaji, Lakhimpur, Dhuburi, Darrang, Goalpara, Karbi Anglong, Marigaon districts (Assam province), Manipur, Orissa, Rajasthan, Madhya Pradesh provinces",293.0,,13709887.0,13709887.0
+2015,India,IND,Flood,Riverine flood,"Rajasthan, Uttar Pradesh, Jammu and Kashmir, Arunachal Pradesh, Uttarakhand, Punjab, Haryana, Himachal Pradesh provinces",25.0,,,
+2015,India,IND,Flood,Flood (General),Assam province,5.0,,18000.0,18000.0
+2015,India,IND,Flood,Flood (General),"Dhemaji, Kokrajhar, Bongaigaon, Sonitpur, Barpeta, Goalpara, Marigaon, Cachar, Lakhimpur, Jorhat, Tinsukia, Darrang, Nalbari, Kamrup, Dibrugarh, Sibsagar districts (Assam province) ",18.0,,736000.0,787000.0
+2015,India,IND,Flood,Flood (General),"Sonitpur, Lakhimpur, Kokrajhar, Dhemaji districts (Assam province), Arunachal Pradesh province ",,,85250.0,85250.0
+2015,India,IND,Flood,Flood (General),"Chittoor, Cuddapah, Prakasam, Nellore districts (Andhra Pradesh province), Chennai, Cuddalore, Nagapattinam, Kancheepuram, Thiruvallur, Villupuram districts (Tamil Nadu province), Puducherry province",325.0,1000.0,1800000.0,1801000.0
+2016,India,IND,Flood,Flood (General),"Arunachal Pradesh, Assam, Nagaland provinces",18.0,,100000.0,100000.0
+2016,India,IND,Flood,Flash flood,"Chamoli, Pithoragahr districts (Uttarakhand province), Assam, Arunachal Pradesh provinces",61.0,,,
+2016,India,IND,Flood,Flash flood,"Lakhimpur, Golaghat, Jorhat, Barpeta, Bongaigaon, Goalpara, Dhubri, Marigaon, Darrang, Nalbari districts (Assam province)",50.0,,,2000000.0
+2016,India,IND,Flood,Flood (General),"Biha, Uttar Pradeshr province (Varanasi, Allahabad, Ghazipur, Ballia, Banda, Jalaun, Ghaziabad, Patna, Bhagalpur, Vaishali, Buxar, Bhojpur, Sonepur, Saran, Begusarai, Samastipur, Lakhisarai, Khagaria, Munger, Nalanda, Katihar, Purnea, Katihar, Supual, Kisanganj, Madhepura, Gopalganj, Saharsa, Araria, East Champaran, Muzafferpur, Kishanganj, Purnea, Araria, Supaul, Bhagalpur, Darbhanga)",254.0,,1600000.0,1600000.0
+2016,India,IND,Flood,Flood (General),"Bhopal, Hoshangabad, Rewa, Sagar, Shajapur, Jabalpur, Satna, Harda, Panna, Vidisha, Raisen, Mandla, Tikamgarh, Seoni, Damoh, Sehore, Agar-Malwa districts (Madhya Pradesh province)",184.0,,100000.0,100000.0
+2016,India,IND,Flood,Flood (General),"Maharashtra (Nashik, Raigad (Mahad), Thane (Bhiwandi), Ratnagiri, Pune, Satara, Kolhapur), Gujarat (Valsad, Chhota Udepur (Vadodara), Navsari and Surat)",37.0,,3000.0,3000.0
+2016,India,IND,Flood,Flood (General),"Andhra Pradesh province, Telangana",28.0,,3000.0,3000.0
+2016,India,IND,Flood,Flood (General),"Jorhat, Golaghat (Assam State)",34.0,,,
+2017,India,IND,Flood,Flood (General),"Lakhimpur, Karimganj, Darrang districts (Assam), Nagaland, Manipur, Jharkhand",6.0,,100000.0,100000.0
+2017,India,IND,Flood,Flood (General),Gujarat,31.0,,,
+2017,India,IND,Flood,Riverine flood,"Lakhimpur, Bangaigaon, Jorhat, Golaghat, Cachar, Dhemjai, Biswanath, Karimganj, Barpeta, Karbi Anglong, Sonitpur, Darrang, Hojai (Sub Division), Bhuragaon (Sub Division), Majuli, Nagaon, Nalbari, Sivasagar, Morigaon, Chirang, Dibrugarh, Dhubri, Kokrajhar, South Salmara, Charaideo, Goalpara districts (Assam)",75.0,,1735000.0,1735000.0
+2017,India,IND,Flood,Flood (General),"Imphal West, Imphal East, Thoubal, Bishnupur (Manipur)",,,12831.0,12831.0
+2017,India,IND,Flood,Flood (General),"Banaskantha, Valsad, Navsari, Surat, Sabarkantha, Patan (Gujarat), Barmer, Jalore, Udaipur, Sirohi, Pali (Rajasthan), Kolkata (West Bengal)",284.0,,520000.0,520000.0
+2017,India,IND,Flood,Flood (General),"Araria, Jogbani (Bihar); Uttar Pradesh, West Bengal",514.0,,17200000.0,17200000.0
+2017,India,IND,Flood,Flash flood,"Mumbai (Dadar, Khar, Bandra, Lalbaug, Kalina, Sion, Byculla, Matunga, Wadala, Parel, Khar-Danda, Pali Hill, Carter Road, Bandra, Ghatkopar, Bhandup, Mulund, and Santacruz), Thane (Maharashtra)",14.0,12.0,,12.0
+2017,India,IND,Flood,Flash flood,Chenai (Tamil Nadu),21.0,,4000.0,4000.0
+2017,India,IND,Flood,Flood (General),"Uttar Pradesh (Siddharthnagar, Balarampur, Bahraich, Shravasti, Maharajganj, Barabanki, Lakhimpur Kheri, Gorakhpur, Muzaffarnagar, Gonda, Basti, Mirzapur, Khiri, Deoria, Sitapur, Bijnore, Faizabad, Pilibhit, Farrukhabad, Mau, Kushinagar, Badaun, Ambedkar nagar, Azamgarh, Santkabir Nagar, Ghazipur, Balia)",101.0,,2700000.0,2700000.0
+2018,India,IND,Flood,Flood (General),"Assam, Maharashtra, Gujarat",52.0,,,
+2018,India,IND,Flood,Flash flood,Tripura state,15.0,24.0,11704.0,11728.0
+2018,India,IND,Flood,Flood (General),Dakshina Kannada and Udupi districts,12.0,,4945.0,4945.0
+2018,India,IND,Flood,Flood (General),"Uttar Pradesh, Rajasthan",33.0,45.0,1500.0,1545.0
+2018,India,IND,Flood,Flood (General),Odisha state,20.0,,41430.0,41430.0
+2018,India,IND,Flood,Flash flood,"Thrissur, Chengannur (Kerala state); West Bengal, Odisha, Assam, Nagaland, Uttar Pradesh, Himachal Pradesh, Maharashtra states",504.0,,23000000.0,23220000.0
+2018,India,IND,Flood,Flood (General),"Biswanath, Udalguri, Golaghat, Sivassagar/Charaideo, Barpeta, Lakhimpu, Dhemaji, Darrang (Assam, West Bengal)",3.0,,25000.0,25000.0
+2018,India,IND,Flood,Flood (General),Uttar Pradesh,46.0,,,3050.0
+2018,India,IND,Flood,Flood (General),"Punjab, Haryana states",25.0,,,
+2019,India,IND,Flood,Flood (General),"Mumbai, Pune, Ratnagiri Districts (Maharashtra State)",52.0,60.0,,60.0
+2019,India,IND,Flood,Flood (General),"Sitamarhi, Sheohar, East Champaran, Muzaffarpur, Madhubani, Darbhanga, Supaul, Araria, Sahersa , Katihar, Purnia, Kishanganj districts (Bihar); Dhemaji, Lakhimpur, Biswanath, Barpeta, Chirang, Golaghat Jorhat, Sonitpur, Darrang, Nalbari, Bongaigaon, Morigaon, Nagaon, Majuli, Baksa, Kokrajhar, Dhubri, South Salmara, Goalpara, Kamrup, Hojai, Sivsagar, Tinsukia, Cachar, KarbiAnglrng, West Karbi-Anglong, Hailakandi, Dibrugarh districts (Assam); Maharashtra, Kerala, Rajasthan, West Bengal, Karnataka, Uttarakand, Himachal Pradesh, Punjab, Uttar Pradesh, Odisha",1900.0,,3000000.0,3000000.0
+2019,India,IND,Flood,Flood (General),"West Bengal, Kerala, Odisha, Maharashtra",32.0,,17500.0,17500.0
+2019,India,IND,Flood,Flood (General),"Belagavi, Gadag, Koppal districts (Karnataka); Kerala, Tamil Nadu states",12.0,,27500.0,27500.0
+2019,India,IND,Flood,Flood (General),"Coimbatore, Cuddalore, Nagapattinam, Thoothukkudi Districts (Tamil Nadu); Pudducherry",27.0,,25000.0,25000.0
+2020,India,IND,Flood,Flood (General),Uttar Pradesh State,29.0,,,
+2020,India,IND,Flood,Flood (General),"Lakhimpur, Sontipur, Darrang, Goalpara (Assam state); Sikkim state",1.0,2.0,30000.0,30002.0
+2020,India,IND,Flood,Flood (General),Jammu region,,,5000.0,5000.0
+2020,India,IND,Flood,Flood (General),"Assam, Bihar, Gujarat, Chhattisgarh, Kerala, Karnataka, Madhya Pradesh, Odisha, Uttar Pradesh, West Bengal, Arunachal Pradesh, Maharashtraa.",1922.0,,1300000.0,1300000.0
+2020,India,IND,Flood,Flood (General),"Hyderabad, Telangana, Andhra Pradesh, Karnataka, South Odisha states ",152.0,,150000.0,150000.0
+2001,India,IND,Earthquake,Ground movement,"Ahmadabad, Amreli, Anand, Banas Kantha, Bharuch, Bhavnagar, Dahdod, Gandhinagar, Jamnagar, Junagadh, Kachchh, Kheda, Mahesana, Navsari, Patan, Porbandar, Rajkot, Sabar Kantha, Surat, Surendranagar, Vadodara districts (Gurajat province)",20005.0,166812.0,4365000.0,6321812.0
+2002,India,IND,Earthquake,Ground movement,Andaman Islands district (Andaman and Nicobar province),2.0,,,200.0
+2004,India,IND,Earthquake,Tsunami,"Kancheepuram, Villupuram, Nagapattinam, Thoothukudi, Tirunelveli Kattabo, Kanniyakumari, Chennai, Thiruvallur, Cuddalore, Pudukkottai, Ramanathapuram, Sivaganga, Thanjavur districts (Tamil Nadu province), Vishakhapatnam, East Godavari, West Godavari, Krishna, Guntur, Prakasam, Nellore districts (Andhra Pradesh province), Kollam, Alappuzha, Ernakulam districts (Kerala province), Puducherry, Karaikal district (Puducherry province), Andaman and Nicobar province",16389.0,6913.0,647599.0,654512.0
+2005,India,IND,Earthquake,Ground movement,Administrative unit not available districts (Jammu and Kashmir province),1309.0,6622.0,,156622.0
+2011,India,IND,Earthquake,Ground movement,"Sikkim, West Bengal, Bihar, Assam, Meghalaya provinces",112.0,200.0,500000.0,575200.0
+2013,India,IND,Earthquake,Ground movement,Administrive unit not available district (Jammu and Kashmir province),3.0,70.0,59280.0,59350.0
+2015,India,IND,Earthquake,Ground movement,"Bihar, Uttar Pradesh, West Bengal, Sikkim provinces",78.0,560.0,,560.0
+2015,India,IND,Earthquake,Ground movement,Bihar province,20.0,,,
+2015,India,IND,Earthquake,Ground movement,"Administrative unit not available districts (Jammu and Kashmir province), Delhi, Punjab provinces",,10.0,,10.0
+2016,India,IND,Earthquake,Ground movement,"Guwahati city (Kamrup district, Assam province), East Imphal, West Imphal, Senapati, Thoubal, Bishnupur, Tamenglong districts (Manipur province)",8.0,308.0,10500.0,10808.0
+2000,India,IND,Drought,Drought,"New Delhi city (Delhi province), Gujarat, Rajasthan, Madhya Prasdesh, Andhra Pradesh, Orissa, Maharashtra provinces",20.0,,50000000.0,50000000.0
+2002,India,IND,Drought,Drought,"Uttar Pradesh, Madhya Pradesh, Rajasthan, Punjab, Haryana, Delhi, Karnataka, Kerala, Nagaland, Orissa, Chhattisgarh, Himachal Pradesh, Gujarat, Maharashtra, Andhra Pradesh, Tamil Nadu provinces",,,300000000.0,300000000.0
+2009,India,IND,Drought,Drought,"Bongaigaon, Cachar, Dhuburi, Goalpara, Golaghat, Hailakandi, Jorhat, Kamrup, Karbi Anglong, Kokrajhar, Lakhimpur, Marigaon, Nagaon, Sibsagar, Barpeta, Darrang, Dhemaji, Dibrugarh, Karimganj, Nalbari, North Cachar Hills, Sonitpur, Tinsukia districts (Assam province), Bilaspur, Chamba, Hamirpur, Kangra, Kinnaur, Kullu, Lahaul and Spiti, Mandi, Shimla, Sirmaur, Solan, Una districts (Himachal Pradesh province), Chatra, Garhwa, Latehar, Palamu, Dumka, Deoghar, Giridih, Godda, Jamtara, Pakur, Sahibganj, Bokaro, Dhanbad, Purba Singhbhum, Gumla, Hazaribag, Koderma, Lohardaga, Ranchi, Simdega, Saraikela Kharsawan, Pashchim Singhbhum districts (Jharkhand province), Bishnupur, Chandel, Churachandpur, East Imphal, West Imphal, Senapati, Tamenglong, Thoubal, Ukhrul districts (Manipur province), Dimapur, Kohima, Phek, Mokokchung, Mon, Tuensang, Wokha, Zunheboto districts (Nagaland province), Ambedkar Nagar, Ballia, Bareilly, Basti, Deoria, Farrukkhabad, Fatehpur, Ghazipur, Hardoi, Hathras, Jaunpur, Kannauj, Kanpur Dehat, Mainpuri, Mau, Rae Bareli, Sultanpur, Sant Kabir Nagar, Unnao, Agra, Shahjahanpur, Faizabad, Meerut, Mahoba, Aligarh, Jyotiba Phule Nagar, Balrampur, Etah, Rampur, Ghaziabad, Gautam Buddha Nagar, Banda, Mathura, Allahabad, Auraiya, Jalaun, Varanasi, Chandauli, Moradabad, Azamgarh, Siddharth Nagar, Badaun, Sitapur, Firozabad, Saharanpur, Chitrakoot, Etawah, Bulandshahr, Kaushambi, Pilibhit, Muzaffarnagar, Kushinagar, Jhansi, Lucknow, Bijnor, Mirzapur districts (Uttar Pradesh province), Patna, Nalanda, Gaya, Buxar, Bhojpur, Rohtas, Bhabua, Siwan, Nawada, Munger, Aurangabad, Sheikhpura, Lakhisarai, Jamui, Bhagalpur, Banka, Saran, Jehanabad, Muzaffarpur, Sitamarhi, Begusarai, Madhepura, Kishanganj, Katihar, Vaishali districts (Bihar province), Bangalore Urban, Bangalore Rural, Kolar, Tumkur, Chitradurga, Davanagere, Chamrajnagar, Mysore, Mandya, Bellary, Koppal, Raichur, Gulbarga, Bidar, Belgaum, Bagalkot, Bijapur, Gadag districts (Karnataka province), Nanded, Latur, Aurangabad, Jalna, Bid, Parbhani, Osmanabad, Hingoli, Chandrapur, Yavatmal, Wardha, Thane, Raigarh, Nandurbar, Jalgaon, Amravati, Buldana, Washim, Garhchiroli, Pune, Satara, Sangli, Solapur, Kolhapur, Nashik, Dhule, Ahmednagar, Akola districts (Maharasthra province), Rewa, Satna, Sidhi, Shahdol, Anuppur, Umaria, Dindori, Jabalpur, Katni, Balaghat, Narsinghpur, Mandla, Sagar, Panna, Tikamgarh, Chhatarpur, Raisen, Vidisha, Damoh, Sehore, Gwalior, Guna, Ashoknagar, Shivpuri, Datia, Bhind, Morena, Sheopur, Shajapur, Dewas, Ratlam, East Nimar, Burhanpur, Barwani, Jhabua districts (Madhya Pradesh province), Ajmer, Alwar, Banswara, Barmer, Bhilwara, Bikaner, Bundi, Chittaurgarh, Churu, Dausa, Dungarpur, Ganganagar, Hanumangarh, Jaipur, Jaisalmer, Jalor, Jhunjhunu, Jodhpur, Nagaur, Pali, Rajsamand, Sawai Madhopur, Sikar, Sirohi, Tonk, Udaipur districts (Rajasthan province)",,,,
+2015,India,IND,Drought,Drought,"Tamil Nadu, Rajasthan, Jharkhand, Assam, Andhra Pradesh, Himachal Pradesh, Nagaland; Maharashtra, Bihar, Madhya Pradesh, Chhattisgarh, Telangana, Jharkand, Odisha states",,,330000000.0,330000000.0
+2018,India,IND,Drought,Drought,"Karnataka, Maharashtra states",,,8200000.0,8200000.0

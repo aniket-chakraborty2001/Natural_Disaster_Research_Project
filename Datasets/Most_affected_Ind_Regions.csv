@@ -1,0 +1,67 @@
+Region,Latitude,Longitude,Frequency,StateName
+Cuddapah,14.4956602,78.8349278,6,Andhra Pradesh
+Guntur,16.2915189,80.4541588,10,Andhra Pradesh
+Krishna,16.21399145,81.02572814,11,Andhra Pradesh
+Nellore,14.4493717,79.9873763,8,Andhra Pradesh
+Prakasam,15.6589741,79.47164373,6,Andhra Pradesh
+Vishakhapatnam,17.6868,83.2185,6,Andhra Pradesh
+West Godavari,16.63713765,81.58909666,7,Andhra Pradesh
+Barpeta,26.34142215,91.01674328,10,Assam
+Bongaigaon,26.41237695,90.57149765,9,Assam
+Cachar,25.083333,92.916667,7,Assam
+Darrang,26.75,92.5,14,Assam
+Dhemaji,27.4668315,94.51786509,16,Assam
+Dhubri,26.01894625,89.94188952,10,Assam
+Dibrugarh,27.4844597,94.9019447,8,Assam
+Goalpara,26.1783623,90.6226683,12,Assam
+Golaghat,26.40490095,94.03209112,11,Assam
+Jorhat,26.7577925,94.2079645,13,Assam
+Kamrup,26.333333,91.25,9,Assam
+Karimganj,24.8647214,92.3681114,8,Assam
+Kokrajhar,26.46817205,90.42434746,7,Assam
+Marigaon,26.2514907,92.3443835,6,Assam
+Nagaon,26.3482238,92.6858215,8,Assam
+Nalbari,26.42386165,91.45122755,9,Assam
+Sibsagar,26.96388985,94.58213345,6,Assam
+Sonitpur,26.76777075,92.70140886,11,Assam
+Tinsukia,27.52016575,95.53063473,7,Assam
+Araria,26.15720995,87.4650597,7,Bihar
+Bhagalpur,25.2494829,86.9828131,9,Bihar
+Darbhanga,26.156999,85.8995065,7,Bihar
+Gopalganj,26.53823065,84.45887425,7,Bihar
+Katihar,25.55047585,87.59414681,9,Bihar
+Kisanganj,26.0982,87.945,6,Bihar
+Madhepura,25.9259562,86.82042961,6,Bihar
+Madhubani,26.96399195,84.11254591,8,Bihar
+Muzaffarpur,26.1667052,85.4166314,12,Bihar
+Nalanda,25.1364914,85.44365465,6,Bihar
+Patna,25.6093239,85.1235252,9,Bihar
+Purnea,25.7773601,87.4731227,8,Bihar
+Saharsa,26,86.75,6,Bihar
+Saran,25.7094256,73.836987,10,Bihar
+Sitamarhi,26.5942841,85.500428,9,Bihar
+Supaul,26.0846095,86.57847921,8,Bihar
+Vaishali,25.95442365,85.14486679,8,Bihar
+Surat,21.2094892,72.8317058,6,Gujarat
+Baleshwar,21.5,86.75,6,Odisha
+Bhadrak,21.0633288,86.5053731,6,Odisha
+Jagatsinghpur,20.2593872,86.1660878,6,Odisha
+Jajpur,20.8522696,86.3385714,6,Odisha
+Kendrapara,20.50040085,86.43170623,6,Odisha
+Puri,19.8076083,85.8252538,7,Odisha
+Chennai,13.0836939,80.270186,9,Tamil Nadu
+Cuddalore,11.74269375,79.75030644,8,Tamil Nadu
+Nagapattinam,10.8056276,79.82465978,8,Tamil Nadu
+Hyderabad,17.360589,78.4740613,6,Telengana
+Karimnagar,18.4348122,79.1328042,7,Telengana
+Khammam,17.2465351,80.1500326,6,Telengana
+Mahbubnagar,16.7434538,77.9923191,6,Telengana
+Nalgonda,17.0504406,79.2669235,6,Telengana
+BaraBanki,26.9274097,81.1948375,7,Uttar Pradesh
+Faizabad,26.75,82,7,Uttar Pradesh
+Gonda,27.25,82,7,Uttar Pradesh
+Lakhimpur,27.98506015,80.75384538,20,Uttar Pradesh
+North 24 Parganas,22.69268145,88.66111746,6,West Bengal
+Hooghly,22.9052114,88.3760639,6,West Bengal
+Kolkata,22.5726459,88.3638953,7,West Bengal
+South 24 Parganas,22.1815262,88.54843767,6,West Bengal
